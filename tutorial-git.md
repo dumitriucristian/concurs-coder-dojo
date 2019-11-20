@@ -26,6 +26,9 @@ https://www.atlassian.com/git/tutorials/install-git#windows
 2. fork
 3. created folder on your machine
 4. clone forked repo
-5. check files git status with ]\dir
+5. check files git status with
+6. add upstream repo git remote add upstream  https://github.com/dumitriucristian/concurs-coder-dojo.git
+7. git fetch upstream
+8. git pull upstream master
 
 
