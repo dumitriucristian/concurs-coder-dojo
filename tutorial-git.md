@@ -31,4 +31,15 @@ https://www.atlassian.com/git/tutorials/install-git#windows
 7. git fetch upstream
 8. git pull upstream master
 
+#update your repoo
+
+7. git fetch upstream
+8. git pull upstream master
+
+#Add you modification to the repoi
+git add <file name>
+git commit -m " explicatia commitului"
+git push 
+create new pull request
+  
 
