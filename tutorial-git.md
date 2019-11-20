@@ -23,22 +23,23 @@ https://www.atlassian.com/git/tutorials/install-git#windows
 #Fork-uire
 
 1. Cauta repoul concurs-coder-dojo
-2. fork
+2. Apasa fork
 3. created folder on your machine
-4. clone forked repo
-5. check files git status with
-6. add upstream repo git remote add upstream  https://github.com/dumitriucristian/concurs-coder-dojo.git
-7. git fetch upstream
-8. git pull upstream master
+4. clone forked repo cu comanda: ``` git clone https://github.com/dumitriucristian/concurs-coder-dojo.git ``` . - nu uita punctul
+5. check files git status with ```git status```
+6. adauta repo-ul original ```git remote add upstream  https://github.com/dumitriucristian/concurs-coder-dojo.git ```
+7. preia modificarile facute de colegi ```git fetch upstream```
+8. ```git pull upstream master```
 
-#update your repoo
+# update your repo with following
 
-7. git fetch upstream
-8. git pull upstream master
+7. ```git fetch upstream```
+8. ```git pull upstream master```
 
-#Add you modification to the repoi
-git add <file name>
-git commit -m " explicatia commitului"
+# Add you modification to the repo
+```git add <file name>```
+```git commit -m``` explicatia commitului 
+
 git push 
 create new pull request
   
