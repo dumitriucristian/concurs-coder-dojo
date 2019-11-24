@@ -28,4 +28,8 @@
 
      > Sa facem un joculet ascuns (konami code)     
 
+## Ideea lui Alex
+1. Forum
+
+     > Sa oferim userilor posibilitatea de a discuta * liber ** (in anumite norme) ***. Exemple: Reddit, Twitter, etc...
 
