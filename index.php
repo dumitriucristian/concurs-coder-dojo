@@ -1,3 +1,5 @@
 <?php
-    echo "first line";
+    require_once('header.php');
+    echo 'content';
+    require_once('footer.php');
 ?>
