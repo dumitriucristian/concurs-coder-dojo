@@ -33,15 +33,17 @@ https://www.atlassian.com/git/tutorials/install-git#windows
 
 # update your repo with following
 
-1. ```git pull```
+1. ```git pull````
 2. ```git fetch upstream```
 3. ```git pull upstream master```
 
 # Add you modification to the repo
+
 1. ```git status```
 2. ```git add <file name>```
 3. ```git commit -m <explicatia commitului>```
 4. ```git push``` 
-5. De pe site > create new pull request
+5. De pe site github, your repo > create new pull request
+
   
 
