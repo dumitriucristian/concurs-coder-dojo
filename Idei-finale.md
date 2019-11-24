@@ -21,6 +21,10 @@
       > Doua zone de chat sau de formular in care copiii sa poata cere ajutor fie de la adulti fie de la alti copii. Si copiii ca si adultii trec uneori prin momente foarte dificile si au nevoie de ajutor iar din x motive, desi acest lucru nu ar trebui sa se intample se intampla, poate parintii nu sunt dispoonibili in acel moment. Asa ca am putea avea aceste zone de chat destinate copiilor in care copiii se ajuta unii pe altii
       
         4. Preluare stiri si informatii despre evenimente (tabere, excursii, spectacole pentru copiii, concursuri)
-      >  Daca copiii ar sti din timp despre anuminte eveneimente ar avea timp sa se informeze si sa ceara parintilor sa participe la concursuri, tabere, excursii si asa mai departe. Am putea da utilizatorului optiunea sa adauge un flag evenimentenele care il intereseaza si sa ramana acestea in dashboard cu reminder.       
+      >  Daca copiii ar sti din timp despre anuminte eveneimente ar avea timp sa se informeze si sa ceara parintilor sa participe la concursuri, tabere, excursii si asa mai departe. Am putea da utilizatorului optiunea sa adauge un flag evenimentenele care il intereseaza si sa ramana acestea in dashboard cu reminder.  
+
+## Ideea lui Sorin
+1. Easter Egg
+> Sa facem un joculet ascuns (konami code)     
 
 
