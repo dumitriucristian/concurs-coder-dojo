@@ -25,6 +25,7 @@
 
 ## Ideea lui Sorin
 1. Easter Egg
-> Sa facem un joculet ascuns (konami code)     
+
+     > Sa facem un joculet ascuns (konami code)     
 
 
