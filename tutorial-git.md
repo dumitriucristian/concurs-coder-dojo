@@ -20,7 +20,7 @@ https://www.atlassian.com/git/tutorials/install-git#windows
 13. git push to send to repo 
 14. check yout repo
 
-#Fork-uire
+# Fork-uire
 
 1. Cauta repoul concurs-coder-dojo
 2. Apasa fork
