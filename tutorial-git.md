@@ -35,6 +35,7 @@ https://www.atlassian.com/git/tutorials/install-git#windows
 1. ```git pull```
 2. ```git fetch upstream```
 3. ```git pull upstream master```
+4. ```git push```
 
 # Add you modification to the repo
 
