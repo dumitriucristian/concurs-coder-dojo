@@ -32,16 +32,16 @@ https://www.atlassian.com/git/tutorials/install-git#windows
 8. ```git pull upstream master```
 
 # update your repo with following
-
-7. ```git fetch upstream```
-8. ```git pull upstream master```
+1. ```git pull````
+2. ```git fetch upstream```
+3. ```git pull upstream master```
 
 # Add you modification to the repo
+
 ```git status```
 ```git add <file name>```
 ```git commit -m``` explicatia commitului 
-
-git push 
+```git push```  
 create new pull request
   
 
