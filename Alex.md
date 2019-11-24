@@ -1,2 +1,4 @@
 # Grigorescu Alexandru
->nu am idei :(
+## Idei pentru concurs
+1. Sa iasa bine
+>Nu este nevoie de descriere
