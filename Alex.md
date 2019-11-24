@@ -1,2 +1,2 @@
-**Grigorescu Alexandru
+# Grigorescu Alexandru
 >nu am idei :(
