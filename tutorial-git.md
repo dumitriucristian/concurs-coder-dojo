@@ -33,8 +33,9 @@ https://www.atlassian.com/git/tutorials/install-git#windows
 
 # update your repo with following
 
-1. ```git fetch upstream```
-2. ```git pull upstream master```
+1. ```git pull```
+2. ```git fetch upstream```
+3. ```git pull upstream master```
 
 # Add you modification to the repo
 1. ```git status```
