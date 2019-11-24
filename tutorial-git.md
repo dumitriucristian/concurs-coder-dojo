@@ -37,6 +37,7 @@ https://www.atlassian.com/git/tutorials/install-git#windows
 8. ```git pull upstream master```
 
 # Add you modification to the repo
+```git status```
 ```git add <file name>```
 ```git commit -m``` explicatia commitului 
 
