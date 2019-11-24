@@ -41,6 +41,6 @@ https://www.atlassian.com/git/tutorials/install-git#windows
 2. ```git add <file name>```
 3. ```git commit -m <explicatia commitului>```
 4. ```git push``` 
-5. De pe site -> create new pull request
+5. De pe site > create new pull request
   
 
