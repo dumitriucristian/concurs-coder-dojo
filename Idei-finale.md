@@ -26,6 +26,18 @@
 ## Ideea lui Sorin
 1. Easter Egg
 
-     > Sa facem un joculet ascuns (konami code)     
+     > Sa facem un joculet ascuns (konami code)    
+     
+     
+## Template from Alex
+[Base Template](https://grigorescualexandru20588.invisionapp.com/board/CoderDojoConcurs-ck3fufn68026o0ovxdocvz984%3Fv=gLBDtAhCFrgWv4qdC5oUjA%253D%253D&linkshare=urlcopied/226267762?v=gLBDtAhCFrgWv4qdC5oUjA%3D%3D&linkshare=urlcopied)
+
+
+
+
+
+
+
+
 
 
