@@ -23,4 +23,4 @@
         4. Preluare stiri si informatii despre evenimente (tabere, excursii, spectacole pentru copiii, concursuri)
       >  Daca copiii ar sti din timp despre anuminte eveneimente ar avea timp sa se informeze si sa ceara parintilor sa participe la concursuri, tabere, excursii si asa mai departe. Am putea da utilizatorului optiunea sa adauge un flag evenimentenele care il intereseaza si sa ramana acestea in dashboard cu reminder.       
 
-
+TEST
